@@ -1,1 +1,1 @@
-# smm-phase2
+Social Media Mining.
